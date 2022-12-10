@@ -16,14 +16,14 @@ I. **Points**:
 
 II. **Lines**:
 
-> Line graph
+> Line graph<br>
 > Slopegraph
 
 III. **Bars**:
 
-> Vertical bar chart
-> Horizontal bar chart
-> Stacked horizontal bar chart
+> Vertical bar chart<br>
+> Horizontal bar chart<br>
+> Stacked horizontal bar chart<br>
 > Waterfall chart
 
 IV. **Area**:
