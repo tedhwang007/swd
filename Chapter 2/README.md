@@ -5,3 +5,4 @@
 2. **Tables**:
 > If you need to communicate multiple different units of measure, this is also typically easier with a table than a graph.
 > One thing to keep in mind with a table is that you want the design to **fade into the background**, letting the **data** take **center** stage. Don’t let heavy borders or shading compete for attention. Instead, think of using **light borders** or simply white space to set apart elements of the table
+3. **Heatmap**:
