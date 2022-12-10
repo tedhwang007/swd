@@ -11,14 +11,20 @@ A heatmap is a way to visualize data in tabular format, where in place of (or in
 ## 4. **Graphs**
 4 main tpyes: points, lines, bars, and area.<br>
 I. **Points**:
+
 > Scatterplot:
+
 II. **Lines**:
+
 > Line graph
 > Slopegraph
+
 III. **Bars**:
+
 > Vertical bar chart
 > Horizontal bar chart
 > Stacked horizontal bar chart
 > Waterfall chart
+
 IV. **Area**:
 ## Avoid: pie charts, donut charts, 3D, and secondary y‐axes
